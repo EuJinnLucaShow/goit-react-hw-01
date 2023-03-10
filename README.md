@@ -78,7 +78,7 @@
 ## Приклад використання
 
 ```js
-import user from 'путь/к/user.json;
+import user from 'path/to/user.json;
 
 <Profile
   username={user.username}
@@ -87,11 +87,5 @@ import user from 'путь/к/user.json;
   avatar={user.avatar}
   stats={user.stats}
 />
-```
-```js
-import data from '/path/to/data.json';
-
-<Statistics title="Upload stats" stats={data} />
-<Statistics stats={data} />
 />
 ```
