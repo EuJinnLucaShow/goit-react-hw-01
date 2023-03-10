@@ -88,4 +88,10 @@ import user from 'путь/к/user.json;
   stats={user.stats}
 />
 ```
+```js
+import data from '/path/to/data.json';
 
+<Statistics title="Upload stats" stats={data} />
+<Statistics stats={data} />
+/>
+```
