@@ -29,7 +29,7 @@
 
 # Профіль соціальної мережі
 
-Необхідно створити компонент `<Profile>`, за допомогою якого ми могли б відображати інформацію про користувача соціальної мережі. Дані про користувача лежать у файлі [user.json](./user.json).
+Необхідно створити компонент `<Profile>`, за допомогою якого ми могли б відображати інформацію про користувача соціальної мережі. Дані про користувача лежать у файлі [user.json](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/goitacademy/react-homework/blob/master/homework-01/social-profile/user.json).
 
 ![Прев'ю компонента Profile](https://github.com/goitacademy/react-homework/blob/master/homework-01/social-profile/preview.png)
 
