@@ -87,5 +87,4 @@ import user from 'path/to/user.json;
   avatar={user.avatar}
   stats={user.stats}
 />
-/>
 ```
